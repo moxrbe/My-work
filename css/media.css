@@ -1,4 +1,4 @@
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
     
     
     :root {
@@ -6,6 +6,7 @@
         --text: #fff;
         --dots: #ebebeb;
         --title-tab: #151437;
+        --link: #FFF;
     }
     
     .logo::before{
